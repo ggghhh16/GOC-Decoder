@@ -1,0 +1,5 @@
+{
+  "name": "GOC Thaumaturgy Decoder",
+  "description": "A specialized terminal interface for the Global Occult Coalition, featuring parallel Caesar cipher decryption modules with a minimalist cyan aesthetic.",
+  "requestFramePermissions": []
+}
